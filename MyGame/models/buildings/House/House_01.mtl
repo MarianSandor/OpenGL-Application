@@ -1,0 +1,42 @@
+newmtl default
+Kd 1 1 1
+
+newmtl mat_house_base_windows
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd diff_house_01_base+windows.png
+illum 7
+
+newmtl mat_doors_vitagki
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd Diffuse_house_01_doors+vitagki.png
+illum 7
+
+newmtl mat_vizors
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd Diffuse_house_01_vizors.png
+illum 7
+
+newmtl mat_doors_vitagki
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd Diffuse_house_01_doors+vitagki.png
+illum 7
+
+newmtl mat_conditions
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd Diffuse_house_01_CONDITIONS.png
+illum 7
+
+newmtl mat_house_balcons
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd diffuse_house_01_balcons.png
+illum 7
+
+newmtl mat_other
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd Diffuse_house_01_other.png
+illum 7
+
+newmtl mat_glass
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+map_Kd glass.jpg
+illum 7

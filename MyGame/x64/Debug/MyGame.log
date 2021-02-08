@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(76,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(146,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(147,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(151,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(152,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(153,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(154,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(422,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\MyGame\main.cpp(518,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  MyGame.vcxproj -> D:\Workspace\An 3\An 3 Sem 1\GP\Labs\Project\MyGame\x64\Debug\MyGame.exe
